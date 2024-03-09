@@ -13,6 +13,11 @@
   - [Decoding exceptions](#decoding-exceptions)
   - [Issue/Bug report template](#issuebug-report-template)
   - [Contributing](#contributing)
+  - [Testing](#testing)
+
+### Testing
+
+Testing stuff
 
 ### Development Status
 
